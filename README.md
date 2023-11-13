@@ -14,9 +14,8 @@
   ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
   
   **Beyond coding, I enjoy:**<br />
-  🛹 Skateboarding | 🎧 Music | ⛰️ Hiking | 🪀 Yoyos | 🎮 Gaming | 🎹 Piano | ⌨️ Building keyboards <br />
+  🛹 Skateboarding | 🎧 Music | ⛰️ Hiking | 🪀 Yoyos | 🎮 Gaming | 🎹 Piano | ⌨️ Building keyboards <br /><br />
 
-  **Reach me at:**<br />
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benmcca)](https://www.linkedin.com/in/benmcca)
   [![Spotify Badge](https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/59zuw8n61rl6jhvmr6detpv1m)
   [![github](https://img.shields.io/github/followers/benmcca?label=follow&style=social)](https://github.com/benmcca)<br />
