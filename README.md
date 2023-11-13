@@ -1,5 +1,3 @@
-<div align="left">
-
   ## 👋 Hi I'm Ben! 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benmcca)](https://www.linkedin.com/in/benmcca)
   [![Spotify Badge](https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/59zuw8n61rl6jhvmr6detpv1m)
@@ -20,5 +18,3 @@
   
   **Beyond coding, I enjoy:**<br />
   🛹 Skateboarding | 🎧 Music | ⛰️ Hiking | 🪀 Yoyos | 🎮 Gaming | 🎹 Piano | ⌨️ Building keyboards <br />
-  
-</div>  
