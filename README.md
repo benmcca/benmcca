@@ -9,6 +9,7 @@
   ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
   ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)
+  ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux)
   ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
   ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
   ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
