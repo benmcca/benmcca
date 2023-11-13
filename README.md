@@ -4,9 +4,9 @@
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+  ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
   ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
   ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-  ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
   ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)
   ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux)
