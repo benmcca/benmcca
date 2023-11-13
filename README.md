@@ -1,28 +1,24 @@
-<div align="center">
-  ### Hi I'm Ben, welcome to my Github! 
-  I am currently a Computer Science student at NJIT in my third year.
-</div>  
+<div align="left">
 
-<div align="center">
-  **📫 Reach me at:**<br>
-
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/opakholis/)](https://www.linkedin.com/in/benmcca)
-  [![github](https://img.shields.io/github/followers/shawnaviles?label=follow&style=social)](https://github.com/benmcca)
+  ### 👋 Hi I'm Ben! 
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benmcca)](https://www.linkedin.com/in/benmcca)
   [![Spotify Badge](https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/59zuw8n61rl6jhvmr6detpv1m)
+  [![github](https://img.shields.io/github/followers/benmcca?label=follow&style=social)](https://github.com/benmcca)<br />
+  I am a third-year computer science student at **NJIT** and a part-time IT Developer Intern at Colgate-Palmolive. <br />
+  My primary focus lies in web development, currently focusing on React, and I aspire to delve into three.js soon. <br />
 
-</div>
-
-<!--
-**benmcca/benmcca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+  ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+  ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+  ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
+  ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+  ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)
+  ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+  ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
+  ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
+  
+  **Beyond coding, I enjoy:**<br />
+  🛹 Skateboarding | 🎧 Music | ⛰️ Hiking | 🪀 Yoyos | 🎮 Gaming | 🎹 Piano | ⌨️ Building keyboards <br />
+  
+</div>  
