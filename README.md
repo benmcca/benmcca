@@ -5,14 +5,14 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
   ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+  ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
+  ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
   ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
   ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
   ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+  ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
   ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)
   ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux)
-  ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-  ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
-  ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
   ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
   
   **Beyond coding, I enjoy:**<br />
