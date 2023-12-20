@@ -1,4 +1,4 @@
-  ## 👋 Hi I'm Ben! 
+  ## 👋  Hi I'm Ben! 
   I am a third-year computer science student at **NJIT** and a part-time Developer Intern at Colgate-Palmolive. <br />
   My primary focus lies in web development, currently focusing on React, and I am in the process of making a personal website. <br />
 
