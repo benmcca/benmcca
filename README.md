@@ -1,6 +1,7 @@
   ## 👋  Hi I'm Ben! 
   I am a third-year computer science student at **NJIT** and a part-time Developer Intern at Colgate-Palmolive. <br />
-  My primary focus lies in web development, currently focusing on React, and I am in the process of making a personal website. <br />
+  My primary focus lies in full stack web development. Over winter break I finished making my personal website.<br />
+  Check it out at [benmcca.com](https://benmcca.com)<br />
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
