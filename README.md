@@ -1,7 +1,10 @@
   ## 👋  Hi I'm Ben! 
-  I am a third-year computer science student at **NJIT** and a part-time Developer Intern at Colgate-Palmolive. <br />
-  My primary focus lies in full stack web development. Over winter break I finished making my personal website.<br />
-  Check it out at [benmcca.com](https://benmcca.com)<br />
+  I am a third-year computer science student at **NJIT** and a Software Engineer Intern at **Optum / United Health Group**. <br />
+  My primary focus lies in full stack web development. I just finished a full stack project called myRotations which incorporates the iTunes API to show a gallery of my most listened-to music.<br />
+<br />
+  **myRotations**: [my-rotations.vercel.app](https://my-rotations.vercel.app/)<br />
+  **Personal Website**: [benmcca.com](https://benmcca.com)<br />
+  
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
