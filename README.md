@@ -1,7 +1,13 @@
   ## 👋  Hi I'm Ben! 
-  I am a third-year computer science student at **NJIT** and a Software Engineer Intern at **Optum / United Health Group**. <br />
-  My primary focus lies in full stack web development. Right now I am working on a full stack project called myRotations which incorporates the iTunes API to show a gallery of my most listened-to music.<br />
-<br />
+  Hello! I'm Benjamin McCabe, currently a fourth-year student at NJIT. I have practical experience working with full-stack applications and designing user interfaces. I just finished my Software Engineering Internship at Optum this summer, focusing on converting Jenkins pipelines to GitHub Actions for automation and security. Currently, I am working as a Part-Time Developer at Colgate-Palmolive, working on projects involving Splunk and AWS. I have a deep passion for front-end development, which I have explored by creating projects to creatively express myself, as well as taking multiple courses in school focused on website and app development. I am eager to continue learning and contributing to impactful projects. 
+  
+  <br />
+  <br />
+  
+  Right now I am working on a full stack project called myRotations which incorporates the iTunes API to show a gallery of my most listened-to music.
+  
+  <br />
+  <br />
   **myRotations**: [myrotations.vercel.app](https://myrotations.vercel.app/)<br />
   **Personal Website**: [benmcca.com](https://benmcca.com)<br />
   
